@@ -10,10 +10,6 @@ public class u1 {
 		
 		System.out.println("Hola, soy Rocío Ye Qiaolin");
 		
-		System.out.println("Hola, soy Fátima Román");
-		
-		System.out.println("UWU");
-		
 		sc.close(); 
 
 	}
