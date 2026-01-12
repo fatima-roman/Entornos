@@ -6,12 +6,13 @@ public class u1 {
 
 	public static void main(String[] args) {
 		
-		Scanner reader = new Scanner(System.in); 
+		Scanner sc = new Scanner(System.in); 
 		
 		System.out.println("Hola, soy Rocío Ye Qiaolin");
 		
 		System.out.println("Hola, soy Fátima Román");
 		
+		sc.close(); 
 
 	}
 
